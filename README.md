@@ -1,7 +1,7 @@
 # Book Borrowing Desktop Application
 Java desktop application, where users can submit books for borrowing (and perform other CRUD operations) and borrow available books.
-
 The project was developed for the Advanced Programming course by a group of two.
+**note**: please create sql database (code in ProgProjDB file) and change the connection string in DBConnection class.
 
 ## Tools Used:
 - NetBeans.
